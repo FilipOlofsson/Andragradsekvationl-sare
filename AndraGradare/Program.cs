@@ -26,11 +26,11 @@ namespace AndraGradare
         }
         static void CalculateX(double a, double b, double c)
         {
-            x1 = (-b - Math.Sqrt(Math.Pow(b, 2) - 4 * a * c)) / 2 * a; //Formeln för att räkna ut en av rötterna på en andragradsekvation 
-            x2 = (-b + Math.Sqrt(Math.Pow(b, 2) - 4 * a * c)) / 2 * a; //Formeln för att räkna ut den andra roten
-            Console.WriteLine("x1 = " + x1 +"\nx2 = "+x2); //Skriv ut rötterna
-            Console.WriteLine("Remember to check for false roots."); //Vi kollar inte om alla rötter stämmer
-            Console.Read();
+                x1 = (-b - Math.Sqrt(Math.Pow(b, 2) - 4 * a * c)) / (2 * a); //Formeln för att räkna ut en av rötterna på en andragradsekvation 
+                x2 = (-b + Math.Sqrt(Math.Pow(b, 2) - 4 * a * c)) / (2 * a); //Formeln för att räkna ut den andra roten
+                Console.WriteLine("x1 = " + x1 + "\nx2 = " + x2); //Skriv ut rötterna
+                Console.WriteLine("Remember to check for false roots."); //Vi kollar inte om alla rötter stämmer
+                Console.Read();
         }
     }
 }
