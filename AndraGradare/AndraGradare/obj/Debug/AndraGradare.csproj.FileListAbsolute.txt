@@ -1,0 +1,6 @@
+c:\users\filip\documents\visual studio 2015\Projects\AndraGradare\AndraGradare\bin\Debug\AndraGradare.exe.config
+c:\users\filip\documents\visual studio 2015\Projects\AndraGradare\AndraGradare\bin\Debug\AndraGradare.exe
+c:\users\filip\documents\visual studio 2015\Projects\AndraGradare\AndraGradare\bin\Debug\AndraGradare.pdb
+c:\users\filip\documents\visual studio 2015\Projects\AndraGradare\AndraGradare\obj\Debug\AndraGradare.csprojResolveAssemblyReference.cache
+c:\users\filip\documents\visual studio 2015\Projects\AndraGradare\AndraGradare\obj\Debug\AndraGradare.exe
+c:\users\filip\documents\visual studio 2015\Projects\AndraGradare\AndraGradare\obj\Debug\AndraGradare.pdb
