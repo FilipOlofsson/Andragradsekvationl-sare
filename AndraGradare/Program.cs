@@ -33,7 +33,7 @@ namespace AndraGradare
         }
         static double CalculateX1(double a, double b, double c)
         {
-                x1 = (-b - Math.Sqrt(Math.Pow(b, 2) - 4 * a * c)) / (2 * a); //Formeln för att räkna ut en av rötterna på en andragradsekvation
+            x1 = (-b - Math.Sqrt(Math.Pow(b, 2) - 4 * a * c)) / (2 * a); //Formeln för att räkna ut en av rötterna på en andragradsekvation
             return x1;
         }
         static double CalculateX2(double a, double b, double c)
